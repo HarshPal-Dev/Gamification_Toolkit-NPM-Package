@@ -1,0 +1,23 @@
+{
+  "name": "gamify_by_harsh",
+  "version": "1.0.0",
+  "description": "Gamification toolkit for creating scoring system for games",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshPal-Dev/Gamify_-npm-package-.git"
+  },
+  "author": "Harsh Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshPal-Dev/Gamify_-npm-package-/issues"
+  },
+  "homepage": "https://github.com/HarshPal-Dev/Gamify_-npm-package-#readme",
+  "dependencies": {
+    "chart.js": "^4.4.7"
+  }
+}
